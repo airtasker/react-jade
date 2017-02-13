@@ -9,6 +9,7 @@
     "ent": "^2.2.0",
     "pug-parser": "^2.0.2",
     "pug-runtime": "^2.0.3",
+    "pug-lexer": "^3.0.0",
     "js-stringify": "^1.0.1",
     "resolve": "^1.1.6",
     "static-module": "^1.1.2",
