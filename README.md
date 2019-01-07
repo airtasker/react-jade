@@ -1,3 +1,8 @@
+**Note:** Airtasker Web depends on this package. We no longer create new jade pages but need this package is required if we need to recompile any pages.
+Once we've refactored all jade pages we can archive this repo
+
+
+
 # react-jade
 
 Compile Jade to React JavaScript
